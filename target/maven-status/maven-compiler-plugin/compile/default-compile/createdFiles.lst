@@ -1,0 +1,10 @@
+com\infosys\order\entity\Order.class
+com\infosys\order\entity\ProductsOrdered.class
+com\infosys\order\repository\ProductsOrderedRepository.class
+com\infosys\order\dto\ProductsOrderedDTO.class
+com\infosys\order\controller\OrderController.class
+com\infosys\order\OrderApplication.class
+com\infosys\order\service\OrderService.class
+com\infosys\order\repository\OrderRepository.class
+com\infosys\order\dto\OrderDTO.class
+com\infosys\order\entity\ProductsOrderedId.class
